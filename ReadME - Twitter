@@ -3,7 +3,3 @@ Description of the content:
 graph.csv
 contains the edge list (who follows whom) of the Twitter subnetwork.
 The edge list uses the user ID.
-All the collected users had to satisfy the following requirement: they had to mention at least one keyword (from the list of keywords: social networks, complex networks, complex systems, network science) in the list of tweets posted by the user or in their user description. 
-
-The data-set has been collected using the Twitter API, according to the terms of services.
-The data-set has been collected in April 2020.
